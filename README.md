@@ -16,7 +16,7 @@ This is a full stack MERN project that involves a **client (Student)** and an **
 The entire project has been divided into three repositories:
 - **Client(Student):** (This repository)
 - **Admin(Hostel Warden):** [Hostel Management System - Admin](https://github.com/mayankjain25/Hostel-Management-System-Admin)
-- **Backend:** [Hostel Management System - Backend](https://github.com/mayankjain25/Hostel-Management-System-Backend)
+- **Backend:** [[Hostel Management System - Backend]- (https://github.com/Aradhya0/Hostel-Management-System-Backend).
 
 You can click any particular repository to navigate and browse the code for that particular repository.
 
