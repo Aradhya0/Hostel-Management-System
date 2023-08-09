@@ -45,7 +45,7 @@ If you want to run this project on your local machine, please note the following
 ### Clone the repository
 
 ```bash
-git clone https://github.com/mayankjain25/Hostel-Management-System
+git clone https://github.com/Aradhya0/Hostel-Management-System.git
 cd Hostel-Management-System
 ```
 
