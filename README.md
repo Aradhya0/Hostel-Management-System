@@ -76,7 +76,7 @@ Contributions are welcome! If you find any bugs or want to add new features, ple
 This project is licensed under the MIT License.
 
 ## Contributors
-This project has been developed by [Mayank Jain](https://mayankjain25.netlify.app)
-Feel free to contact me at jainmayank2509@gmail.com
+This project has been developed by [Mayank Jain](https://mayankjain25.netlify.app) and [Aradhya Kumar](https://aradhyakumar.netlify.app/)
+Feel free to contact me at aradhyasaumay21@gmail.com
 
 May the force be with you!
